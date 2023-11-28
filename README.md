@@ -1,6 +1,6 @@
 # Real-time-Anomaly-Detection-for-Endpoint-Security-
 
-**Note: Due to confidentiality constraints, specific project details cannot be disclosed. The following README provides a general overview of the project without divulging specific information.**
+### Note: Due to confidentiality constraints, specific project details cannot be disclosed. The following README provides a general overview of the project without divulging specific information.
 
 To develop an advanced behavioral AI models for real-time anomaly detection and threat identification at Endpoints/Users using Host and Network Logs data
 
@@ -40,6 +40,6 @@ The successful implementation of this project is expected to yield the following
 - **Improved System Resilience**: Strengthened resistance against cybersecurity threats.
 - **Proactive Cybersecurity Measures**: Enable proactive risk mitigation before escalation.
 - 
-**Due to confidentiality constraints, further specifics or project-related insights cannot be shared here.**
+**Note:Due to confidentiality constraints, further specifics or project-related insights cannot be shared here.**
 
 
